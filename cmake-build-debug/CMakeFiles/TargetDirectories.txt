@@ -1,0 +1,3 @@
+/home/ubuntuuser/Project/Job_management/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ubuntuuser/Project/Job_management/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ubuntuuser/Project/Job_management/cmake-build-debug/CMakeFiles/Job_management.dir

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntuuser/Project/Job_management/BasicFunctionLib/Basicinfo/Basicinfo.cpp
+ctime
+-
+fstream
+-
+iostream
+-
+
