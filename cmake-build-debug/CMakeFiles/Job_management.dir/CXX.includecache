@@ -14,3 +14,17 @@ fstream
 iostream
 -
 
+/home/ubuntuuser/Project/Job_management/BasicFunctionLib/Basicinfo/Basicinfo.h
+ctime
+-
+fstream
+-
+iostream
+-
+
+/home/ubuntuuser/Project/Job_management/main.cpp
+iostream
+-
+BasicFunctionLib/Basicinfo/Basicinfo.h
+/home/ubuntuuser/Project/Job_management/BasicFunctionLib/Basicinfo/Basicinfo.h
+

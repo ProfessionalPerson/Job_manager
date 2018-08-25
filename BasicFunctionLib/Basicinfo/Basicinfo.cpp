@@ -10,13 +10,15 @@ public:
     Basicinfo();
     inline char *get_Systeminfo() const;
     inline char *get_CPUinfo() const;
-    inline int aa();
     inline char *get_RAMinfo() const;
     inline char *get_StartTime() const;
     char *get_NowTime() const;
     inline char *get_Location() const;
     friend std::ostream &operator<<(std::ostream &Basicinfo,
             const this_namespace::Basicinfo &B);
+    Basicinfo(Basicinfo &) = delete;
+    Basicinfo(const Basicinfo &) = delete;
+    Basicinfo &operator=(const Basicinfo &) = delete;
 private:
     char *Systeminfo = NULL;
     char *CPUinfo = NULL;
